@@ -24,5 +24,3 @@ A histogram identifies age groups most at risk for attrition, enabling targeted 
 This project taught me the importance of data storytelling—connecting numbers to actionable insights. An instance of this could be tailoring retention programs for specific demographics.
 
 I further developed my technical skills with the aid of Microsoft Excel (focused on Pivot Tables and Charts) to design an intuitive and effective dashboard, ensuring each element supports decision-making.
-
-A big thank you to Digital Fortress Institute and my amazing instructor, Favour Atane, for her mentorship and encouragement. I look forward to this exciting journey!
